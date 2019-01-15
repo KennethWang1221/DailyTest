@@ -497,14 +497,6 @@ public class JDBCTest3{
 
 
 
-
-
-
-    public static void main(String args[]){
-
-    }
-}*/
-
 package DBTest;
 import java.sql.*;
 import java.util.ArrayList;
@@ -638,21 +630,8 @@ public class JDBCTest3{
 
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
+
 
 
 
