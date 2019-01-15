@@ -8,7 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d58cfb3-554c-495c-b572-4955914f3e7d" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TestDataBase/src/DBTest/JDBCTest3.java" afterPath="$PROJECT_DIR$/TestDataBase/src/DBTest/JDBCTest3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,20 +55,20 @@
       <file leaf-file-name="JDBCTest3" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestDataBase/src/DBTest/JDBCTest3">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-802">
+            <state relative-caret-position="11477">
               <caret line="499" column="14" lean-forward="false" selection-start-line="499" selection-start-column="8" selection-end-line="499" selection-end-column="14" />
               <folding>
-                <marker date="1547475430834" expanded="true" signature="7380:7483" ph="insert into users... " />
-                <marker date="1547475430834" expanded="true" signature="7939:8008" ph="insert into users... " />
-                <marker date="1547475430834" expanded="true" signature="8674:8701" ph="delete from " />
-                <marker date="1547475430834" expanded="true" signature="9202:9253" ph="update users... " />
-                <marker date="1547475430834" expanded="true" signature="10003:10039" ph="select Count... users" />
-                <marker date="1547475430834" expanded="true" signature="10564:10593" ph="select * fro... users" />
-                <marker date="1547475430834" expanded="true" signature="11336:11355" ph="select * fro... users" />
-                <marker date="1547475430834" expanded="true" signature="13639:13742" ph="insert into users... " />
-                <marker date="1547475430834" expanded="true" signature="14157:14226" ph="insert into users... " />
-                <marker date="1547475430834" expanded="true" signature="14869:14896" ph="delete from " />
-                <marker date="1547475430834" expanded="true" signature="15413:15464" ph="update users... " />
+                <marker date="1547512048409" expanded="true" signature="7380:7483" ph="insert into users... " />
+                <marker date="1547512048409" expanded="true" signature="7939:8008" ph="insert into users... " />
+                <marker date="1547512048409" expanded="true" signature="8674:8701" ph="delete from " />
+                <marker date="1547512048409" expanded="true" signature="9202:9253" ph="update users... " />
+                <marker date="1547512048409" expanded="true" signature="10003:10039" ph="select Count... users" />
+                <marker date="1547512048409" expanded="true" signature="10564:10593" ph="select * fro... users" />
+                <marker date="1547512048409" expanded="true" signature="11336:11355" ph="select * fro... users" />
+                <marker date="1547512048409" expanded="true" signature="13639:13742" ph="insert into users... " />
+                <marker date="1547512048409" expanded="true" signature="14157:14226" ph="insert into users... " />
+                <marker date="1547512048409" expanded="true" signature="14869:14896" ph="delete from " />
+                <marker date="1547512048409" expanded="true" signature="15413:15464" ph="update users... " />
               </folding>
             </state>
           </provider>
@@ -99,10 +100,10 @@
         <entry file="file://$PROJECT_DIR$/TestDataBase/src/DBTest/UsersTest3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
               <folding>
-                <element signature="e#277#278#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -257,10 +258,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="803" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -280,6 +281,8 @@
     <panes>
       <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -327,8 +330,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -676,12 +677,13 @@
       <workItem from="1547458069830" duration="1499000" />
       <workItem from="1547464145896" duration="846000" />
       <workItem from="1547466441719" duration="23000" />
-      <workItem from="1547466728830" duration="1440000" />
+      <workItem from="1547466728830" duration="3111000" />
+      <workItem from="1547541082284" duration="21000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="305548000" />
+    <option name="totallyTimeSpent" value="307240000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -693,8 +695,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="803" extended-state="1" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="800" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32768363" sideWeight="0.49713877" order="8" side_tool="false" content_ui="tabs" />
@@ -702,7 +703,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32768363" sideWeight="0.49713877" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7048023" sideWeight="0.5171674" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7035461" sideWeight="0.5171674" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32768363" sideWeight="0.49713877" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24216524" sideWeight="0.4828326" order="4" side_tool="false" content_ui="tabs" />
@@ -710,7 +711,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32768363" sideWeight="0.49713877" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23676682" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23676682" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -766,6 +767,8 @@
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/Bankers_Algorithm" />
+      <path value="$PROJECT_DIR$/Chapter07" />
+      <path value="$PROJECT_DIR$/src" />
     </ignored-roots>
   </component>
   <component name="XDebuggerManager">
@@ -1008,7 +1011,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1052,16 +1054,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/README.md" />
     <entry file="file://$PROJECT_DIR$/HelloWorldTest/src/HelloWorldTest1/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -1090,20 +1083,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestDataBase/src/DBTest/JDBCTest3">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-802">
+        <state relative-caret-position="11477">
           <caret line="499" column="14" lean-forward="false" selection-start-line="499" selection-start-column="8" selection-end-line="499" selection-end-column="14" />
           <folding>
-            <marker date="1547475430834" expanded="true" signature="7380:7483" ph="insert into users... " />
-            <marker date="1547475430834" expanded="true" signature="7939:8008" ph="insert into users... " />
-            <marker date="1547475430834" expanded="true" signature="8674:8701" ph="delete from " />
-            <marker date="1547475430834" expanded="true" signature="9202:9253" ph="update users... " />
-            <marker date="1547475430834" expanded="true" signature="10003:10039" ph="select Count... users" />
-            <marker date="1547475430834" expanded="true" signature="10564:10593" ph="select * fro... users" />
-            <marker date="1547475430834" expanded="true" signature="11336:11355" ph="select * fro... users" />
-            <marker date="1547475430834" expanded="true" signature="13639:13742" ph="insert into users... " />
-            <marker date="1547475430834" expanded="true" signature="14157:14226" ph="insert into users... " />
-            <marker date="1547475430834" expanded="true" signature="14869:14896" ph="delete from " />
-            <marker date="1547475430834" expanded="true" signature="15413:15464" ph="update users... " />
+            <marker date="1547512048409" expanded="true" signature="7380:7483" ph="insert into users... " />
+            <marker date="1547512048409" expanded="true" signature="7939:8008" ph="insert into users... " />
+            <marker date="1547512048409" expanded="true" signature="8674:8701" ph="delete from " />
+            <marker date="1547512048409" expanded="true" signature="9202:9253" ph="update users... " />
+            <marker date="1547512048409" expanded="true" signature="10003:10039" ph="select Count... users" />
+            <marker date="1547512048409" expanded="true" signature="10564:10593" ph="select * fro... users" />
+            <marker date="1547512048409" expanded="true" signature="11336:11355" ph="select * fro... users" />
+            <marker date="1547512048409" expanded="true" signature="13639:13742" ph="insert into users... " />
+            <marker date="1547512048409" expanded="true" signature="14157:14226" ph="insert into users... " />
+            <marker date="1547512048409" expanded="true" signature="14869:14896" ph="delete from " />
+            <marker date="1547512048409" expanded="true" signature="15413:15464" ph="update users... " />
           </folding>
         </state>
       </provider>
@@ -1126,10 +1119,10 @@
     <entry file="file://$PROJECT_DIR$/TestDataBase/src/DBTest/UsersTest3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
           <folding>
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
           </folding>
         </state>
       </provider>
