@@ -12,11 +12,29 @@
 </head>
 <body>
 
-<form action="/ExamTest/SessionTest4" method="post">
+<%--<form action="/ExamTest/SessionTest4" method="post">
     用户名 :<input type="text" name="username">
     密码   :<input type="password" name="password">
     登陆   :<input type="submit" value="提交">
+
+</form>--%>
+
+
+<form action="SessionTest4" method="post">
+    用户名：<input type="text" name="username">
+    密码：<input type="password" name="password">
+    登录：<input type="submit" value="提交">
 </form>
+
+
+
+
+
+
+
+
+
+
 
 </body>
 </html>

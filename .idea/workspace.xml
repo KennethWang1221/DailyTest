@@ -3,13 +3,55 @@
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
       <artifact name="ExamTest:war exploded" />
+      <artifact name="HelloWorldTest:war exploded" />
       <artifact name="chapter06:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d58cfb3-554c-495c-b572-4955914f3e7d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaSETest/JavaSETest.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaSETest/src/com/test1/test1.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/chapter07_war_exploded/WEB-INF/classes/UserDao/GetConn.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/chapter07_war_exploded/WEB-INF/classes/UserDao/UserDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/chapter07_war_exploded/WEB-INF/classes/user/vo/UserVo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/chapter07_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.33-bin.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/chapter07_war_exploded/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/chapter07_war_exploded/addUser.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/chapter07_war_exploded/addUserForm.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/chapter07_war_exploded/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/chapter07_war_exploded/listUsers.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Bankers_Algorithm/Bankers_Algorithm/BankersTest.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExamTest/web/WEB-INF/classes/CookieTest1/CookieTest2.class" afterPath="$PROJECT_DIR$/ExamTest/web/WEB-INF/classes/CookieTest1/CookieTest2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExamTest/web/WEB-INF/classes/ServletTest/ELTest.class" afterPath="$PROJECT_DIR$/ExamTest/web/WEB-INF/classes/ServletTest/ELTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExamTest/web/WEB-INF/classes/ServletTest/RequestForwordServlet.class" afterPath="$PROJECT_DIR$/ExamTest/web/WEB-INF/classes/ServletTest/RequestForwordServlet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExamTest/web/WEB-INF/classes/ServletTest/RequestParamServlet.class" afterPath="$PROJECT_DIR$/ExamTest/web/WEB-INF/classes/ServletTest/RequestParamServlet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExamTest/web/WEB-INF/classes/ServletTest/ResultServlet.class" afterPath="$PROJECT_DIR$/ExamTest/web/WEB-INF/classes/ServletTest/ResultServlet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExamTest/web/WEB-INF/classes/ServletTest/ServletContextTest1.class" afterPath="$PROJECT_DIR$/ExamTest/web/WEB-INF/classes/ServletTest/ServletContextTest1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExamTest/web/WEB-INF/classes/ServletTest/ServletContextTest2.class" afterPath="$PROJECT_DIR$/ExamTest/web/WEB-INF/classes/ServletTest/ServletContextTest2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExamTest/web/WEB-INF/classes/SessionTest1/SessionTest4.class" afterPath="$PROJECT_DIR$/ExamTest/web/WEB-INF/classes/SessionTest1/SessionTest4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExamTest/web/WEB-INF/classes/SessionTest1/SessionTest5.class" afterPath="$PROJECT_DIR$/ExamTest/web/WEB-INF/classes/SessionTest1/SessionTest5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ExamTest_war_exploded/WEB-INF/classes/CookieTest1/CookieTest2.class" afterPath="$PROJECT_DIR$/out/artifacts/ExamTest_war_exploded/WEB-INF/classes/CookieTest1/CookieTest2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ExamTest_war_exploded/WEB-INF/classes/ServletTest/ELTest.class" afterPath="$PROJECT_DIR$/out/artifacts/ExamTest_war_exploded/WEB-INF/classes/ServletTest/ELTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ExamTest_war_exploded/WEB-INF/classes/ServletTest/RequestForwordServlet.class" afterPath="$PROJECT_DIR$/out/artifacts/ExamTest_war_exploded/WEB-INF/classes/ServletTest/RequestForwordServlet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ExamTest_war_exploded/WEB-INF/classes/ServletTest/RequestParamServlet.class" afterPath="$PROJECT_DIR$/out/artifacts/ExamTest_war_exploded/WEB-INF/classes/ServletTest/RequestParamServlet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ExamTest_war_exploded/WEB-INF/classes/ServletTest/ResultServlet.class" afterPath="$PROJECT_DIR$/out/artifacts/ExamTest_war_exploded/WEB-INF/classes/ServletTest/ResultServlet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ExamTest_war_exploded/WEB-INF/classes/ServletTest/ServletContextTest1.class" afterPath="$PROJECT_DIR$/out/artifacts/ExamTest_war_exploded/WEB-INF/classes/ServletTest/ServletContextTest1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ExamTest_war_exploded/WEB-INF/classes/ServletTest/ServletContextTest2.class" afterPath="$PROJECT_DIR$/out/artifacts/ExamTest_war_exploded/WEB-INF/classes/ServletTest/ServletContextTest2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ExamTest_war_exploded/WEB-INF/classes/SessionTest1/SessionTest4.class" afterPath="$PROJECT_DIR$/out/artifacts/ExamTest_war_exploded/WEB-INF/classes/SessionTest1/SessionTest4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ExamTest_war_exploded/WEB-INF/classes/SessionTest1/SessionTest5.class" afterPath="$PROJECT_DIR$/out/artifacts/ExamTest_war_exploded/WEB-INF/classes/SessionTest1/SessionTest5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExamTest/web/WEB-INF/classes/web.xml" afterPath="$PROJECT_DIR$/ExamTest/web/WEB-INF/classes/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HelloWorldTest/src/HelloWorldTest1/Test1.java" afterPath="$PROJECT_DIR$/HelloWorldTest/src/HelloWorldTest1/Test1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HelloWorldTest/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/HelloWorldTest/web/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestDataBase/src/DBTest/ConnTest1.java" afterPath="$PROJECT_DIR$/TestDataBase/src/DBTest/ConnTest1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ExamTest_war_exploded/SessionLogin.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ExamTest_war_exploded/SessionLogin.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ExamTest_war_exploded/WEB-INF/classes/web.xml" afterPath="$PROJECT_DIR$/out/artifacts/ExamTest_war_exploded/WEB-INF/classes/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ExamTest_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/out/artifacts/ExamTest_war_exploded/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/ExamTest_war_exploded/myjsp.jsp" afterPath="$PROJECT_DIR$/out/artifacts/ExamTest_war_exploded/myjsp.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/HelloWorldTest_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/out/artifacts/HelloWorldTest_war_exploded/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/chapter06_war_exploded/MyJsp3.jsp" afterPath="$PROJECT_DIR$/out/artifacts/chapter06_war_exploded/MyJsp3.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/chapter06_war_exploded/MyJsp4.jsp" afterPath="$PROJECT_DIR$/out/artifacts/chapter06_war_exploded/MyJsp4.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,10 +119,10 @@
       <file leaf-file-name="ConnTest1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestDataBase/src/DBTest/ConnTest1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            <state relative-caret-position="1495">
+              <caret line="65" column="13" lean-forward="false" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
               <folding>
-                <marker date="1510843556387" expanded="true" signature="1249:1275" ph="select count... users" />
+                <marker date="1548640444295" expanded="true" signature="1249:1275" ph="select count... users" />
               </folding>
             </state>
           </provider>
@@ -89,22 +131,51 @@
       <file leaf-file-name="Test1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HelloWorldTest/src/HelloWorldTest1/Test1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            <state relative-caret-position="276">
+              <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaSETest/src/com/test1/test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-42">
+              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UsersTest3.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HelloWorldTest/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UsersTest3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestDataBase/src/DBTest/UsersTest3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-              <folding>
-                <element signature="e#395#396#0" expanded="true" />
-                <element signature="e#421#422#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="138">
+              <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyJsp1.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter06/web/MyJsp1.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="667">
+              <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -122,29 +193,11 @@
       <file leaf-file-name="HelloWorldtest1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HelloWorldTest/src/HelloWorldTest1/HelloWorldtest1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SessionTest5.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExamTest/src/SessionTest1/SessionTest5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SessionTest4.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExamTest/src/SessionTest1/SessionTest4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="322">
+              <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -185,10 +238,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Chapter07/web/WEB-INF/addUser.jsp" />
-        <option value="$PROJECT_DIR$/Chapter07/web/addUserForm.jsp" />
-        <option value="$PROJECT_DIR$/Chapter07/src/UserDao/GetConn.java" />
-        <option value="$PROJECT_DIR$/Test/web/addUserForm.jsp" />
         <option value="$PROJECT_DIR$/Test/src/user/vo/UserVO.java" />
         <option value="$PROJECT_DIR$/Test/src/user/vo/USerVo.java" />
         <option value="$PROJECT_DIR$/Test/web/addUSerTest.jsp" />
@@ -236,6 +285,10 @@
         <option value="$PROJECT_DIR$/TestDataBase/web/JspTest2.jsp" />
         <option value="$PROJECT_DIR$/ExamTest/src/ServletTest/RequestParamServlet.java" />
         <option value="$PROJECT_DIR$/TestDataBase/src/DBTest/JDBCTest3.java" />
+        <option value="$PROJECT_DIR$/HelloWorldTest/src/HelloWorldTest1/Test1.java" />
+        <option value="$PROJECT_DIR$/TestDataBase/src/DBTest/ConnTest1.java" />
+        <option value="$PROJECT_DIR$/HelloWorldTest/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/JavaSETest/src/com/test1/test1.java" />
       </list>
     </option>
   </component>
@@ -280,9 +333,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -293,43 +345,26 @@
             <path>
               <item name="Idea_Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Idea_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloWorldTest" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSETest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Idea_Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Idea_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloWorldTest" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSETest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Idea_Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Idea_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloWorldTest" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaSETest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloWorldTest1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Idea_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Idea_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="TestDataBase" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Idea_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Idea_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="TestDataBase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Idea_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Idea_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="TestDataBase" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DBTest" type="462c0819:PsiDirectoryNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -359,7 +394,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.23">
+  <component name="RunManager" selected="Application.test1">
     <configuration name="JDBCTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -449,6 +484,11 @@
             <option name="CONTEXT_PATH" value="/chapter06" />
           </settings>
         </artifact>
+        <artifact name="HelloWorldTest:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/HelloWorldTest" />
+          </settings>
+        </artifact>
       </deployment>
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_23_Idea_Project_8" />
@@ -511,6 +551,7 @@
         <option name="BuildArtifacts" enabled="true">
           <artifact name="ExamTest:war exploded" />
           <artifact name="chapter06:war exploded" />
+          <artifact name="HelloWorldTest:war exploded" />
         </option>
       </method>
     </configuration>
@@ -595,19 +636,40 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="5">
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.test1.test1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaSETest" />
+      <envs />
+    </configuration>
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 8.5.23" />
       <item index="1" class="java.lang.String" itemvalue="Application.JDBCTest1" />
       <item index="2" class="java.lang.String" itemvalue="Application.JDBCUsers" />
       <item index="3" class="java.lang.String" itemvalue="Application.JDBCTest2" />
       <item index="4" class="java.lang.String" itemvalue="Application.JDBCTest3" />
+      <item index="5" class="java.lang.String" itemvalue="Application.test1" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.JDBCTest2" />
-        <item index="1" class="java.lang.String" itemvalue="Application.JDBCTest3" />
-        <item index="2" class="java.lang.String" itemvalue="Application.JDBCUsers" />
-        <item index="3" class="java.lang.String" itemvalue="Application.JDBCTest1" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.test1" />
+        <item index="1" class="java.lang.String" itemvalue="Application.JDBCTest2" />
+        <item index="2" class="java.lang.String" itemvalue="Application.JDBCTest3" />
+        <item index="3" class="java.lang.String" itemvalue="Application.JDBCUsers" />
+        <item index="4" class="java.lang.String" itemvalue="Application.JDBCTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -679,11 +741,15 @@
       <workItem from="1547466441719" duration="23000" />
       <workItem from="1547466728830" duration="3111000" />
       <workItem from="1547541082284" duration="21000" />
+      <workItem from="1548509607453" duration="78000" />
+      <workItem from="1548599230696" duration="400000" />
+      <workItem from="1548635309439" duration="3747000" />
+      <workItem from="1548732529942" duration="14024000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="307240000" />
+    <option name="totallyTimeSpent" value="325489000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -696,9 +762,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32768363" sideWeight="0.49713877" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32765958" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32768363" sideWeight="0.49713877" order="11" side_tool="false" content_ui="tabs" />
@@ -706,12 +774,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7035461" sideWeight="0.5171674" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32768363" sideWeight="0.49713877" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24216524" sideWeight="0.4828326" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24113475" sideWeight="0.4828326" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32768363" sideWeight="0.49713877" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23676682" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24320458" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -726,7 +794,6 @@
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32768363" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3988604" sideWeight="0.47997138" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -782,28 +849,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Test/src/user/vo/UserVo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExamTest/web/myjsp.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExamTest/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="31" column="22" lean-forward="false" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter07/web/index.jsp" />
     <entry file="file://$PROJECT_DIR$/Test/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
@@ -897,13 +942,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter06/web/MyJsp1.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -1018,7 +1056,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1055,32 +1092,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/README.md" />
-    <entry file="file://$PROJECT_DIR$/HelloWorldTest/src/HelloWorldTest1/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWorldTest/src/HelloWorldTest1/HelloWorldtest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestDataBase/src/DBTest/ConnTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-          <folding>
-            <marker date="1510843556387" expanded="true" signature="1249:1275" ph="select count... users" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestDataBase/src/DBTest/JDBCTest3">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11477">
@@ -1116,14 +1127,72 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter06/web/MyJsp1.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorldTest/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TestDataBase/src/DBTest/UsersTest3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        <state relative-caret-position="138">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorldTest/src/HelloWorldTest1/HelloWorldtest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
           <folding>
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorldTest/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDataBase/src/DBTest/ConnTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1495">
+          <caret line="65" column="13" lean-forward="false" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+          <folding>
+            <marker date="1548640444295" expanded="true" signature="1249:1275" ph="select count... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorldTest/src/HelloWorldTest1/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSETest/src/com/test1/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1181,12 +1250,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ExamTest</last-edited>
+          <last-edited>chapter06</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

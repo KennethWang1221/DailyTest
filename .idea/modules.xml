@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Bankers_Algorithm/Bankers_Algorithm.iml" filepath="$PROJECT_DIR$/Bankers_Algorithm/Bankers_Algorithm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Chapter07/Chapter07.iml" filepath="$PROJECT_DIR$/Chapter07/Chapter07.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExamTest/ExamTest.iml" filepath="$PROJECT_DIR$/ExamTest/ExamTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorldTest/HelloWorldTest.iml" filepath="$PROJECT_DIR$/HelloWorldTest/HelloWorldTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Idea_Project.iml" filepath="$PROJECT_DIR$/Idea_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSETest/JavaSETest.iml" filepath="$PROJECT_DIR$/JavaSETest/JavaSETest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestDataBase/TestDataBase.iml" filepath="$PROJECT_DIR$/TestDataBase/TestDataBase.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter06/chapter06.iml" filepath="$PROJECT_DIR$/chapter06/chapter06.iml" />

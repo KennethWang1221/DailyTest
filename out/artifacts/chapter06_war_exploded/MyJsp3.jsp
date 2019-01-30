@@ -30,5 +30,11 @@
 %>
 <h1 style="color:red;size:35px">本网页刷新的数为：<%=sx %> </h1>
 <a style="color:red;size:35px" href="MyJsp4.jsp?shuaxin=<%=sx %>">跳转到MyJsp4.jsp</a>
+
+
+
+
+
+
 </body>
 </html>

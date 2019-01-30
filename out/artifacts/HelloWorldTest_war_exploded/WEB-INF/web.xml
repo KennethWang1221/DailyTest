@@ -12,4 +12,16 @@
         <servlet-name>HelloWorldtest1</servlet-name>
         <url-pattern>/HelloWorldtest1</url-pattern>
     </servlet-mapping>
+
+
+
+    <servlet>
+        <servlet-name>Test1</servlet-name>
+        <servlet-class>HelloWorldTest1.Test1</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Test1</servlet-name>
+        <url-pattern>/Test1</url-pattern>
+    </servlet-mapping>
 </web-app>

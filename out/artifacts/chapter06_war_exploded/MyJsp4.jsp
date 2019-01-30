@@ -11,11 +11,17 @@
     <title>Title</title>
 </head>
 <body>
+
 <%
     String flash=request.getParameter("shuaxin");
 
 %>
+
 <h1 style="color:red;size:35px">MyJsp.jsp刷新的次数为：<%=flash %></h1>
+
+
+
+
 
 </body>
 </html>
